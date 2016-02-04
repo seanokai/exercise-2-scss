@@ -1,5 +1,6 @@
 @mixin button($bg-color){        //⬅︎ The argument passed is in the round brackets
   display: inline-block;
+  position: absolute;
   margin: 1em;
   padding: .5em 1em;
   border-radius: 3px;
