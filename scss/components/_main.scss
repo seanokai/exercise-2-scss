@@ -8,8 +8,13 @@ h1{
 	text-align: center;
 }
 
+.wrapper{
+	text-align: center;
+}
+
 .primary-btn {
 
-	text-align: center;
 	@include button ($red);
 }
+
+

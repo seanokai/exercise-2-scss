@@ -8,10 +8,12 @@ h1 {
   text-align: center;
 }
 
-.primary-btn {
+.wrapper {
   text-align: center;
+}
+
+.primary-btn {
   display: inline-block;
-  position: absolute;
   margin: 1em;
   padding: .5em 1em;
   border-radius: 3px;
